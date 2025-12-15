@@ -8,7 +8,7 @@ Chức năng:
 - Phương pháp: chỉ fix ở cấp độ API của windows không thay thế font gốc của game.
 
 Tiến độ:
-- Đến 15/12 đã hoàn thành 1170681 key và sửa lỗi dịch thuật cơ bản
+- Đến 15/12 đã hoàn thành 1170681/1255160 key và sửa lỗi dịch thuật cơ bản
 - Bản phát hành và hướng dẫn: Sẽ có sẵn khi hoàn thành dịch hết key
 
 Hạn chế:
