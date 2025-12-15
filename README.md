@@ -21,4 +21,4 @@ Hạn chế:
 Công cụ sử dụng:
 - Bản dịch thực hiện 100% bởi AI Google Gemini
 - Tham khảo sửa lỗi dịch thuật: Quick Translator(QT), https://key.vietphrase.info/, từ điển Hán-Việt https://hvdic.thivien.net/
-- công cụ: công cụ của WQ223(unpack, pack file) và user854221(extract, repack text) diễn đàn reshax.
+- Công cụ của WQ223(unpack, pack file) và user854221(extract, repack text) diễn đàn reshax.
