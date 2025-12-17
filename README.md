@@ -1,5 +1,5 @@
 # yysls-cn-vn
-Bản dịch Việt hóa Yên Vân Thập Lục Thanh (yysls.cn) fix font
+Bản dịch Việt hóa Where Winds Meet | Yên Vân Thập Lục Thanh bản nội địa Trung (yysls.cn) fix font
 
 Chức năng:
 - Dịch toàn bộ văn bản trích xuất từ file "translate_words_map_zh_cn"
@@ -8,7 +8,7 @@ Chức năng:
 - Phương pháp: chỉ fix ở cấp độ API của windows không thay thế font gốc của game.
 
 Tiến độ:
-- Đến 15/12 đã hoàn thành 1170681/1255160 key và sửa lỗi dịch thuật cơ bản
+- Đến 17/12 đã hoàn thành 1248026/1255160 key và sửa nhiều lỗi dịch thuật
 - Bản phát hành và hướng dẫn: Sẽ có sẵn khi hoàn thành dịch hết key
 
 Hạn chế:
