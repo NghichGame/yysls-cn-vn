@@ -6,19 +6,24 @@ Chức năng:
 - Fix lỗi font (lớn nhỏ, lên xuống, viền răng cưa) do thiếu ký tự tiếng Việt
 - thu nhỏ kích thước font chữ + thu hẹp chiều ngang để hạn chế mất chữ do khi dịch ra, văn bản dài hơn văn bản gốc rất nhiều
 - Phương pháp: chỉ fix ở cấp độ API của windows không thay thế font gốc của game.
+- Đồng bộ xưng hô cổ phong: ta ngươi, huynh đệ, thúc bá, mẫu thân, nương, a nương, phụ thân, gia gia, bà bà, thiếu gia, thiếu đông gia, cô nương, ... và rất rất nhiều đại từ xưng hô khác để phù hợp với bối cảnh game (nhưng có thể vẫn còn sót).
+- Hệ thống danh hiệu, địa danh, môn phái, chiêu thức... Hán-Việt đậm chất cổ phong
+- Sửa rất rất nhiều lỗi dịch thuật hội thoại, để đảm bảo người chơi dễ hiểu nhất (mặc dù còn rất nhiều).
 
 Tiến độ:
-- Đến 17/12 đã hoàn thành 1248026/1255160 key và sửa nhiều lỗi dịch thuật
-- Bản phát hành và hướng dẫn: Sẽ có sẵn khi hoàn thành dịch hết key
+- Đến 19/12 đã hoàn thành toàn bộ 1.255.160 key và sửa rất nhiều lỗi dịch thuật
+- Bản phát hành và hướng dẫn: Sẽ có sẵn 20/12 sau khi sửa thêm những lỗi dịch thuật cơ bản, hay gặp tránh khó chịu.
+
+Cập nhật:
+- Dự án vẫn cập nhật, sửa lỗi dịch thuật liên tục miễn là tác giả còn chơi game
 
 Hạn chế:
-- Một số văn bản nằm trong "translate_words_map_zh_cn" đã dịch nhưng vẫn hiển thị tiếng Trung, chưa tìm ra nguyên nhân :(
 - Một số văn bản không nằm trong file "translate_words_map_zh_cn" vẫn chưa thể dịch.
 - Hiện tại mới chỉ hỗ trợ bản PC
 - Vì khối lượng văn bản lớn, bản dịch không thể tránh các sai sót chưa thể sửa lỗi
 
 Công cụ sử dụng:
-- Bản dịch thực hiện 100% bởi AI Google Gemini
+- Bản dịch thực hiện thủ công bởi AI Google Gemini web
 - Tham khảo sửa lỗi dịch thuật: Quick Translator(QT), https://key.vietphrase.info/, từ điển Hán-Việt https://hvdic.thivien.net/
 - Công cụ của WQ223(unpack, pack file) và user854221(extract, repack text) diễn đàn reshax.
 
