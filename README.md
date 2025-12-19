@@ -1,4 +1,4 @@
-# Việt hóa Where Winds Meet | Yên Vân Thập Lục Thanh CN->VN Fix Font
+# Việt hóa Where Winds Meet | Yên Vân Thập Lục Thanh banr Trung CN->VN Fix Font
 Bản Việt hóa Where Winds Meet | Yên Vân Thập Lục Thanh bản nội địa Trung (yysls.cn) fix font
 
 Chức năng:
@@ -6,7 +6,7 @@ Chức năng:
 - Fix lỗi font (lớn nhỏ, lên xuống, viền răng cưa) do thiếu ký tự tiếng Việt
 - thu nhỏ kích thước font chữ + thu hẹp chiều ngang để hạn chế mất chữ do khi dịch ra, văn bản dài hơn văn bản gốc rất nhiều
 - Phương pháp: chỉ fix ở cấp độ API của windows không thay thế font gốc của game.
-- Đồng bộ xưng hô cổ phong: ta ngươi, huynh đệ, thúc bá, mẫu thân, nương, a nương, phụ thân, gia gia, bà bà, thiếu gia, thiếu đông gia, cô nương, ... và rất rất nhiều đại từ xưng hô khác để phù hợp với bối cảnh game (nhưng có thể vẫn còn sót).
+- Đồng bộ xưng hô cổ phong: ta ngươi, huynh đệ, thúc bá, mẫu thân, nương, a nương, phụ thân, gia gia, bà bà, thiếu gia, thiếu đông gia, cô nương, ... và nhiều đại từ xưng hô khác để phù hợp với bối cảnh game (nhưng có thể vẫn còn sót).
 - Hệ thống danh hiệu, địa danh, môn phái, chiêu thức... Hán-Việt đậm chất cổ phong
 - Sửa rất rất nhiều lỗi dịch thuật hội thoại, để đảm bảo người chơi dễ hiểu nhất (mặc dù còn rất nhiều).
 
@@ -24,7 +24,7 @@ Hạn chế:
 
 Công cụ sử dụng:
 - Bản dịch thực hiện thủ công bởi AI Google Gemini web
-- Tham khảo sửa lỗi dịch thuật: Quick Translator(QT), https://key.vietphrase.info/, từ điển Hán-Việt https://hvdic.thivien.net/
+- Tham khảo sửa lỗi dịch thuật:  Gemini, Quick Translator(QT), https://key.vietphrase.info/, từ điển Hán-Việt https://hvdic.thivien.net/
 - Công cụ của WQ223(unpack, pack file) và user854221(extract, repack text) diễn đàn reshax.
 
 Demo:
