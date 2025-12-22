@@ -36,6 +36,9 @@ Công cụ sử dụng:
 - Công cụ của WQ223(unpack, pack file) và user854221(extract, repack text) diễn đàn reshax.
 
 Demo:
+
+ [Video demo 1](https://youtu.be/TWB9fqID1Qc), [video demo2](https://youtu.be/8YXyXx1DwKM)
+
 ![Demo1](https://github.com/NghichGame/yysls-cn-vn/blob/main/assets/1.png)
 ![Demo2](https://github.com/NghichGame/yysls-cn-vn/blob/main/assets/2.png)
 ![Demo3](https://github.com/NghichGame/yysls-cn-vn/blob/main/assets/3.png)
