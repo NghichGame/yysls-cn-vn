@@ -1,5 +1,5 @@
 # Việt hóa Where Winds Meet | Yên Vân Thập Lục Thanh banr Trung CN->VN Fix Font
-Bản Việt hóa Where Winds Meet | Yên Vân Thập Lục Thanh bản nội địa Trung (yysls.cn) fix font
+Bản Việt hóa Where Winds Meet | Yên Vân Thập Lục Thanh bản Trung (yysls.cn) và fix font
 
 Chức năng:
 - Dịch toàn bộ văn bản trích xuất từ file "translate_words_map_zh_cn"
