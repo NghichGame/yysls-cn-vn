@@ -8,7 +8,7 @@ Chức năng:
 - Phương pháp: chỉ fix ở cấp độ API của windows không thay thế font gốc của game.
 - Đồng bộ xưng hô cổ phong: ta ngươi, huynh đệ, thúc bá, mẫu thân, nương, a nương, phụ thân, gia gia, bà bà, thiếu gia, thiếu đông gia, cô nương, ... và nhiều đại từ xưng hô khác để phù hợp với bối cảnh game (nhưng có thể vẫn còn sót).
 - Hệ thống danh hiệu, địa danh, môn phái, chiêu thức... Hán-Việt đậm chất cổ phong
-- Sửa rất rất nhiều lỗi dịch thuật hội thoại, để đảm bảo người chơi dễ hiểu nhất (mặc dù còn rất nhiều).
+- Sửa nhiều lỗi dịch thuật (mặc dù còn rất nhiều).
 
 Tiến độ:
 - Đã hoàn thành toàn bộ 1.255.160 key và sửa nhiều lỗi dịch thuật
