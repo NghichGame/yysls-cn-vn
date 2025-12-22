@@ -18,7 +18,7 @@ Hướng dẫn tải và cài đặt
 - Sau khi tải về nhấp đúp vào file zip để mở (win 10, 11) hoặc mở bằng WinRar lên sẽ thấy có 2 thư mục "Engine" và "LocalData"
 - Copy hoặc kéo thả cả 2 thư mục vào thư mục chính của bản game. ví dụ "D:\Games\yysls\yysls_medium" nếu chơi bản 120gb và "D:\Games\yysls\yysls_fast" nếu chơi bản 60gb (Xem ảnh dưới). Lưu ý nên mở Launcher trước và để Launcher cập nhật xong rồi copy.
   ![HD1](https://github.com/NghichGame/yysls-cn-vn/blob/main/assets/HD1.png)
-- Xuất hiện thông báo ghi đè file, chọn dòng "Repalce the filé in the destination"
+- Xuất hiện thông báo ghi đè file, chọn dòng "Repalce the files in the destination"
 - Xong! Vào game chơi như bình thường.
 
 Cập nhật:
@@ -26,6 +26,7 @@ Cập nhật:
 
 Hạn chế:
 - Một số văn bản không nằm trong file "translate_words_map_zh_cn" vẫn chưa thể dịch.
+- Một số văn bản đã dịch nhưng trong game vẫn hiển thị tiếng Trung, chưa tìm ra nguyên nhân và cách khắc phục.
 - Hiện tại mới chỉ hỗ trợ bản PC
 - Vì khối lượng văn bản lớn, bản dịch không thể tránh các sai sót chưa thể sửa lỗi
 
