@@ -11,8 +11,15 @@ Chức năng:
 - Sửa rất rất nhiều lỗi dịch thuật hội thoại, để đảm bảo người chơi dễ hiểu nhất (mặc dù còn rất nhiều).
 
 Tiến độ:
-- Đến 19/12 đã hoàn thành toàn bộ 1.255.160 key và sửa rất nhiều lỗi dịch thuật
-- Bản phát hành và hướng dẫn: Sẽ có sẵn 20/12 sau khi sửa thêm những lỗi dịch thuật cơ bản, hay gặp tránh khó chịu.
+- Đã hoàn thành toàn bộ 1.255.160 key và sửa nhiều lỗi dịch thuật
+
+Hướng dẫn tải và cài đặt
+- tải file việt hóa mới tại [đây]([https://github.com/user/repo](https://github.com/NghichGame/yysls-cn-vn/releases/download/1.0.0/VietHoaYenVanCN_NghichGame_1.0.0.zip))  hoặc page release.
+- Sau khi tải về nhấp đúp vào file zip để mở (win 10, 11) hoặc mở bằng WinRar lên sẽ thấy có 2 thư mục "Engine" và "LocalData"
+- Copy hoặc kéo thả cả 2 thư mục vào thư mục chính của bản game. ví dụ "D:\Games\yysls\yysls_medium" nếu chơi bản 120gb và "D:\Games\yysls\yysls_fast" nếu chơi bản 60gb (Xem ảnh dưới). Lưu ý nên mở Launcher trước và để Launcher cập nhật xong rồi copy.
+  ![HD1](https://github.com/NghichGame/yysls-cn-vn/blob/main/assets/HD1.png)
+- Xuất hiện thông báo ghi đè file, chọn dòng "Repalce the filé in the destination"
+- Xong! Vào game chơi như bình thường.
 
 Cập nhật:
 - Dự án vẫn cập nhật, sửa lỗi dịch thuật liên tục miễn là tác giả còn chơi game
