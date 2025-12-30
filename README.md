@@ -22,7 +22,8 @@ Hướng dẫn tải và cài đặt
 - Xong! Vào game chơi như bình thường.
 
 Cập nhật:
-- Dự án vẫn cập nhật, sửa lỗi dịch thuật liên tục miễn là tác giả còn chơi game
+- Dự án sẽ cố gắng cập nhật, sửa lỗi dịch thuật nhiều nhất có thể
+- CHi tiết các bản cập nhật xem ở page release
 
 Hạn chế:
 - Một số văn bản không nằm trong file "translate_words_map_zh_cn" vẫn chưa thể dịch.
