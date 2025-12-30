@@ -14,7 +14,7 @@ Tiến độ:
 - Đã hoàn thành toàn bộ 1.255.160 key và sửa nhiều lỗi dịch thuật
 
 Hướng dẫn tải và cài đặt
-- tải file việt hóa mới tại [ĐÂY](./releases/download/1.0.0/VietHoaYenVanCN_NghichGame_1.0.0.zip)  hoặc page release.
+- tải file việt hóa mới tại [ĐÂY](./releases/download/1.0.1/VietHoaYenVanCN_NghichGame_1.0.1.zip)  hoặc page release.
 - Sau khi tải về nhấp đúp vào file zip để mở (win 10, 11) hoặc mở bằng WinRar lên sẽ thấy có 2 thư mục "Engine" và "LocalData"
 - Copy hoặc kéo thả cả 2 thư mục vào thư mục chính của bản game. ví dụ "D:\Games\yysls\yysls_medium" nếu chơi bản 120gb và "D:\Games\yysls\yysls_fast" nếu chơi bản 60gb (Xem ảnh dưới). Lưu ý nên mở Launcher trước và để Launcher cập nhật xong rồi copy.
   ![HD1](https://github.com/NghichGame/yysls-cn-vn/blob/main/assets/HD1.png)
