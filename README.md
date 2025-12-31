@@ -23,11 +23,11 @@ Hướng dẫn tải và cài đặt
 
 Cập nhật:
 - Dự án sẽ cố gắng cập nhật, sửa lỗi dịch thuật nhiều nhất có thể
-- CHi tiết các bản cập nhật xem ở page release
+- Chi tiết các bản cập nhật xem ở page release
 
 Hạn chế:
-- Một số văn bản không nằm trong file "translate_words_map_zh_cn" vẫn chưa thể dịch.
-- Một số văn bản đã dịch nhưng trong game vẫn hiển thị tiếng Trung, chưa tìm ra nguyên nhân và cách khắc phục.
+- Một số văn bản như npc xianhua, các văn bản mới cập nhật... không nằm trong file "translate_words_map_zh_cn"vẫn chưa thể dịch.
+- Nhiều văn bản đã dịch nhưng trong game vẫn hiển thị tiếng Trung, chưa tìm ra nguyên nhân và cách khắc phục. Đa số là hội thoại, npc talk...Where Winds Meet bản Global có vẻ cũng bị nhưng đã được fix với các file .ft trong thư mục .\LocalData\Patch\HD\formula. Hiện tại vẫn chưa thể áp dụng vì server đè file mới bất cứ khi nào sửa đổi các file đó.
 - Hiện tại mới chỉ hỗ trợ bản PC
 - Vì khối lượng văn bản lớn, bản dịch không thể tránh các sai sót chưa thể sửa lỗi
 
