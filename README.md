@@ -12,6 +12,7 @@ Chức năng:
 
 Tiến độ:
 - Đã hoàn thành toàn bộ 1.255.160 key và sửa nhiều lỗi dịch thuật
+- Từ phiên bản 1.0.2, dịch thêm phần UI đăng nhập, đăng ký Email, SĐT, quét mã QR, Trung tâm người dùng
 
 Hướng dẫn tải và cài đặt
 - tải file việt hóa mới tại [ĐÂY](https://github.com/NghichGame/yysls-cn-vn/releases/download/1.0.2/VietHoaYenVanCN_NghichGame_1.0.2.zip)  hoặc page release.
