@@ -15,7 +15,7 @@ Tiến độ:
 - Từ phiên bản 1.0.2, dịch thêm phần UI đăng nhập, đăng ký Email, SĐT, quét mã QR, Trung tâm người dùng
 
 Hướng dẫn tải và cài đặt
-- tải file việt hóa mới tại [ĐÂY](https://github.com/NghichGame/yysls-cn-vn/releases/download/1.0.2/VietHoaYenVanCN_NghichGame_1.0.2.zip)  hoặc page release.
+- tải file việt hóa mới nhất (VietHoaYenVanCN_NghichGame_xxx.zip) tại [ĐÂY](https://github.com/NghichGame/yysls-cn-vn/releases/)  hoặc bấm vào page release.
 - Sau khi tải về nhấp đúp vào file zip để mở (win 10, 11) hoặc mở bằng WinRar lên sẽ thấy có 2 thư mục "Engine" và "LocalData"
 - Copy hoặc kéo thả cả 2 thư mục vào thư mục chính của bản game. ví dụ "D:\Games\yysls\yysls_medium" nếu chơi bản full và "D:\Games\yysls\yysls_fast" nếu chơi bản nhẹ (Xem ảnh dưới). Lưu ý nên mở Launcher trước và để Launcher cập nhật xong rồi copy.
   ![HD1](https://github.com/NghichGame/yysls-cn-vn/blob/main/assets/HD1.png)
