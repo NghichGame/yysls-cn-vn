@@ -27,7 +27,7 @@ Cập nhật:
 
 Hạn chế:
 - Một số văn bản như npc xianhua, các văn bản mới cập nhật... không nằm trong file "translate_words_map_zh_cn"vẫn chưa thể dịch.
-- Nhiều văn bản đã dịch nhưng trong game vẫn hiển thị tiếng Trung, chưa tìm ra nguyên nhân và cách khắc phục. Đa số là hội thoại, npc talk...Where Winds Meet bản Global có vẻ cũng bị nhưng đã được fix với các file .ft trong thư mục .\LocalData\Patch\HD\formula. Hiện tại vẫn chưa thể áp dụng vì server đè file mới bất cứ khi nào sửa đổi các file đó.
+- Nhiều văn bản đã dịch nhưng trong game vẫn hiển thị tiếng Trung, chưa tìm ra nguyên nhân và cách khắc phục. Đa số là hội thoại, npc talk...Where Winds Meet bản Global có vẻ không bị do được thiết kế đa ngôn ngữ và không dịch trực tiếp trong file _zh_cn. Tới hiện tại, khả năng lớn nhất là do cơ chế cache và hotfix của bản nội địa, có thể khắc phục nếu can thiệp được vào file hotfix lua.
 - Hiện tại mới chỉ hỗ trợ bản PC
 - Vì khối lượng văn bản lớn, bản dịch không thể tránh các sai sót chưa thể sửa lỗi
 
