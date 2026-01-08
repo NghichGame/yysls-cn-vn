@@ -19,7 +19,7 @@ nhiều văn bản có vẻ như là thuộc về gm client hoặc các tool, ph
   Nếu không dịch thì sẽ miss 1 số hội thoại trong các nhiệm vụ, mini map Bất Kiến Sơn - Hô Đà.Phải đợi có bản cập nhật lớn các text miss này đổ ra file words_map thì mới có thể dịch chính xác. Cũng có thể do tool mình viết extract ra bị dính nhiều văn bản rác, cache nên số lượng mới lớn như vậy.
   Phần này có lẽ cần cân nhắc, kiểm tra thêm trước khi dịch và áp dụng vào bản việt hóa.
 - Xem video demo hội thoại map Bất Kiến Sơn
-  [![Video Demo Việt Hóa](https://github.com/NghichGame/yysls-cn-vn/blob/main/assets/10.png)](https://www.youtube.com/watch?v=pyflpvomTVA "Click xem video Demo")
+  [![Video Demo Việt Hóa](https://github.com/NghichGame/yysls-cn-vn/blob/main/assets/10.png)](https://www.youtube.com/playlist?list=PLrtlgPMKxfkEldat51wY_1JOmQ5ezjEXG "Click xem video Demo")
 
   
 
