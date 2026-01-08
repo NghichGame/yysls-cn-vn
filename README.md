@@ -13,6 +13,15 @@ Chức năng:
 Tiến độ:
 - Đã hoàn thành toàn bộ 1.255.160 key và sửa nhiều lỗi dịch thuật
 - Từ phiên bản 1.0.2, dịch thêm phần UI đăng nhập, đăng ký Email, SĐT, quét mã QR, Trung tâm người dùng
+- Đã fix được hoàn toàn cơ chế callback của game với văn bản hội thoại, npc talk về tiếng trung, đã có thể hiển thị gần như toàn vộ văn bản đã dịch có trong file words_map, sự kiện mới, vật phẩm, võ học mới, 1 phần map Hô Đà mới.... Sẽ cập nhật trong phiên bản 1.1.0 sắp tới, tỉ lệ hiển thị tiếng Việt đã đạt trên 95%
+- Tìm thấy thêm ~225 ngàn dòng text (đã lọc trùng) từ các nơi khác, hiện tại các text này lẫn lộn cả những hội thoại thiếu trong game, 1 lượng lớn tên riêng (tên nhân vật, địa danh.. chưa xuất hiện trong game),
+nhiều văn bản có vẻ như là thuộc về gm client hoặc các tool, phần mềm để quản lý game của nph, nếu thực hiện dịch hết thì gần như coi như là dịch lại từ đầu số lượng bằng 2/3 lượng văn bản đã lọc trùng của file words_map.
+  Nếu không dịch thì sẽ miss 1 số hội thoại trong các nhiệm vụ, mini map Bất Kiến Sơn - Hô Đà.Phải đợi có bản cập nhật lớn các text miss này đổ ra file words_map thì mới có thể dịch chính xác. Cũng có thể do tool mình viết extract ra bị dính nhiều văn bản rác, cache nên số lượng mới lớn như vậy.
+  Phần này có lẽ cần cân nhắc, kiểm tra thêm trước khi dịch và áp dụng vào bản việt hóa.
+- Xem video demo hội thoại map Bất Kiến Sơn
+  [![Video Demo Việt Hóa](https://github.com/NghichGame/yysls-cn-vn/blob/main/assets/10.png)](https://www.youtube.com/watch?v=pyflpvomTVA "Click xem video Demo")
+
+  
 
 Hướng dẫn tải và cài đặt
 - tải file việt hóa mới nhất (VietHoaYenVanCN_NghichGame_xxx.zip) tại [ĐÂY](https://github.com/NghichGame/yysls-cn-vn/releases/)  hoặc bấm vào page release.
@@ -27,9 +36,7 @@ Cập nhật:
 - Chi tiết các bản cập nhật xem ở page release
 
 Hạn chế:
-- Một số văn bản như npc xianhua, các văn bản mới cập nhật... không nằm trong file "translate_words_map_zh_cn"vẫn chưa thể dịch.
-- Nhiều văn bản đã dịch nhưng trong game vẫn hiển thị tiếng Trung, chưa tìm ra nguyên nhân và cách khắc phục. Đa số là hội thoại, npc talk...Where Winds Meet bản Global có vẻ không bị do được thiết kế đa ngôn ngữ và không dịch trực tiếp trong file _zh_cn. Tới hiện tại, khả năng lớn nhất là do cơ chế cache và hotfix của bản nội địa, có thể khắc phục nếu can thiệp được vào file hotfix lua.
-- Đến 05/01/2026 đã có thể bypass được cơ chế hotfix, cached, diff của game. bản big update 1.1.0 sắp tới có thể sẽ đảm bảo hiển thị full tiếng việt kể cả hotfix, cache, hay update nhỏ chưa có trong file words_map. Thời gian update có thể mất từ 3 ngày tới 1 tuần.
+- Một số văn bản văn bản mới cập nhật trong các bản cập nhật nhỏ... không nằm trong file "translate_words_map_zh_cn"vẫn chưa thể dịch.
 - Hiện tại mới chỉ hỗ trợ bản PC
 - Vì khối lượng văn bản lớn, bản dịch không thể tránh các sai sót chưa thể sửa lỗi
 
