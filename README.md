@@ -11,9 +11,9 @@ Chức năng:
 - Sửa nhiều lỗi dịch thuật (mặc dù còn rất nhiều).
 
 Tiến độ:
-- Đã hoàn thành toàn bộ 1.321.058 key và sửa nhiều lỗi dịch thuật
+- Đã hoàn thành toàn bộ 1.321.058 key + hơn 2000 key proxy và sửa nhiều lỗi dịch thuật
 - Từ phiên bản 1.0.2, dịch thêm phần UI đăng nhập, đăng ký Email, SĐT, quét mã QR, Trung tâm người dùng
-- Từ phiên bản 1.1.0 fix được hoàn toàn cơ chế callback của game với văn bản hội thoại, npc talk về tiếng trung, đã có thể hiển thị gần như toàn vộ văn bản đã dịch có trong file words_map, sự kiện mới, vật phẩm, võ học mới, 1 phần map Hô Đà mới.... Sẽ cập nhật trong phiên bản 1.1.0 sắp tới, tỉ lệ hiển thị tiếng Việt đã đạt trên 99%
+- Từ phiên bản 1.1.0 fix được hoàn toàn cơ chế callback của game với văn bản hội thoại, npc talk về tiếng trung, đã có thể hiển thị gần như toàn vộ văn bản đã dịch có trong file words_map, sự kiện mới, vật phẩm, võ học mới, map Hô Đà mới, tỉ lệ hiển thị tiếng Việt ~99%
 - Xem video demo hội thoại map Bất Kiến Sơn
   [![Video Demo Việt Hóa](https://github.com/NghichGame/yysls-cn-vn/blob/main/assets/10.png)](https://www.youtube.com/playlist?list=PLrtlgPMKxfkEldat51wY_1JOmQ5ezjEXG "Click xem video Demo")
 
