@@ -2,18 +2,20 @@
 Bản Việt hóa Where Winds Meet | Yến Vân Thập Lục Thanh bản Trung (yysls.cn) và fix font
 
 Chức năng:
-- Dịch toàn bộ văn bản trích xuất từ file "translate_words_map_zh_cn"
+- Dịch toàn bộ văn bản trích xuất từ file "translate_words_map_zh_cn", chất lượng bản dịch cao
 - Fix lỗi font (lớn nhỏ, lên xuống, viền răng cưa) do thiếu ký tự tiếng Việt
 - thu nhỏ kích thước font chữ + thu hẹp chiều ngang để hạn chế mất chữ do khi dịch ra, văn bản dài hơn văn bản gốc rất nhiều
+- Fix hoàn toàn lỗi fallback về tiếng Trung với đa số hội thoại
+- Dịch bổ sung thêm các text cập nhật chưa có trong file words_map (sự kiện, vật phẩm, map, nhiệm vụ mới...)
 - Phương pháp: chỉ fix ở cấp độ API của windows không thay thế font gốc của game.
-- Đồng bộ xưng hô cổ phong: ta ngươi, huynh đệ, thúc bá, mẫu thân, nương, a nương, phụ thân, gia gia, bà bà, thiếu gia, thiếu đông gia, cô nương, ... và nhiều đại từ xưng hô khác để phù hợp với bối cảnh game (nhưng có thể vẫn còn sót).
+- Đồng bộ xưng hô cổ phong: ta ngươi, huynh đệ, thúc bá, mẫu thân, nương, a nương, phụ thân, gia gia, bà bà, thiếu gia, thiếu đông gia, cô nương, ... và nhiều đại từ xưng hô khác để phù hợp với bối cảnh game.
 - Hệ thống danh hiệu, địa danh, môn phái, chiêu thức... Hán-Việt đậm chất cổ phong
-- Sửa nhiều lỗi dịch thuật (mặc dù còn rất nhiều).
+- Sửa rất rất nhiều lỗi dịch thuật.
 
 Tiến độ:
-- Đã hoàn thành toàn bộ 1.321.058 key + hơn 2000 key proxy và sửa nhiều lỗi dịch thuật
+- Đã hoàn thành toàn bộ 1.321.058 key + hơn 2000 key proxy
 - Từ phiên bản 1.0.2, dịch thêm phần UI đăng nhập, đăng ký Email, SĐT, quét mã QR, Trung tâm người dùng
-- Từ phiên bản 1.1.0 fix được hoàn toàn cơ chế callback của game với văn bản hội thoại, npc talk về tiếng trung, đã có thể hiển thị gần như toàn vộ văn bản đã dịch có trong file words_map, sự kiện mới, vật phẩm, võ học mới, map Hô Đà mới, tỉ lệ hiển thị tiếng Việt ~99%
+- Từ phiên bản 1.1.0 fix được hoàn toàn cơ chế callback của game với văn bản hội thoại, npc talk về tiếng trung, đã có thể hiển thị gần như toàn bộ văn bản đã dịch có trong file words_map, sự kiện mới, vật phẩm, võ học mới, map Hô Đà mới. Tỉ lệ hiển thị tiếng Việt đạt ~99%
 - Xem video demo hội thoại map Bất Kiến Sơn
   [![Video Demo Việt Hóa](https://github.com/NghichGame/yysls-cn-vn/blob/main/assets/10.png)](https://www.youtube.com/playlist?list=PLrtlgPMKxfkEldat51wY_1JOmQ5ezjEXG "Click xem video Demo")
 
@@ -34,14 +36,6 @@ Cập nhật:
 Hạn chế:
 - Hiện tại mới chỉ hỗ trợ bản PC
 - Vì khối lượng văn bản lớn, bản dịch không thể tránh các sai sót chưa thể sửa lỗi
-
-Tương lai:
-- Có thể sẽ nghiên cứu và cập nhật thêm phiên bản mobile, ít nhất là fix font.
-
-Công cụ sử dụng:
-- Bản dịch thực hiện thủ công bởi AI Google Gemini web
-- Tham khảo sửa lỗi dịch thuật:  Gemini, Quick Translator(QT), https://key.vietphrase.info/, từ điển Hán-Việt https://hvdic.thivien.net/
-- Công cụ của WQ223(unpack, pack file) và user854221(extract, repack text) diễn đàn reshax.
 
 Demo:
 
