@@ -16,7 +16,7 @@ Tiến độ:
 - Đã hoàn thành toàn bộ 1.321.058 key + hơn 2000 key proxy
 - Từ phiên bản 1.0.2, dịch thêm phần UI đăng nhập, đăng ký Email, SĐT, quét mã QR, Trung tâm người dùng
 - Từ phiên bản 1.1.0 fix được hoàn toàn cơ chế callback của game với văn bản hội thoại, npc talk về tiếng trung, đã có thể hiển thị gần như toàn bộ văn bản đã dịch có trong file words_map, sự kiện mới, vật phẩm, võ học mới, map Hô Đà mới. Tỉ lệ hiển thị tiếng Việt đạt ~99%
-- Từ phiên bản 1.1.2 Donate 50k/1 năm sử dụng + xóa thông báo logo. Vẫn có thể sử dụng miễn phí, thông báo xuất hiện ngẫu nhiên.
+- Từ phiên bản 1.1.2 Donate 50k/1 năm sử dụng + xóa thông báo logo (đợi vài phút sau thanh toán khởi động lại game để ẩn hoàn toàn). Vẫn có thể sử dụng miễn phí, thông báo xuất hiện ngẫu nhiên.
 - Xem video demo hội thoại map Bất Kiến Sơn
   [![Video Demo Việt Hóa](https://github.com/NghichGame/yysls-cn-vn/blob/main/assets/10.png)](https://www.youtube.com/playlist?list=PLrtlgPMKxfkEldat51wY_1JOmQ5ezjEXG "Click xem video Demo")
 
