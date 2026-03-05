@@ -1,5 +1,5 @@
-# Where Winds Meet Việt hóa | Yến Vân Thập Lục Thanh server Trung
-Bản Việt hóa Where Winds Meet | Yến Vân Thập Lục Thanh bản Trung (yysls.cn) và fix font
+# Việt hóa Where Winds Meet server Trung | Việt hóa Yến Vân server Trung
+Bản Việt hóa Where Winds Meet | Yến Vân Thập Lục Thanh bản Trung (yysls.cn)
 
 Chức năng:
 - Dịch toàn bộ văn bản trích xuất từ file "translate_words_map_zh_cn", chất lượng bản dịch cao
@@ -19,21 +19,27 @@ Tiến độ:
   Với phiên bản android sắp tới, miễn phí hoàn toàn
 - Xem video demo hội thoại map Bất Kiến Sơn
   [![Video Demo Việt Hóa](https://github.com/NghichGame/yysls-cn-vn/blob/main/assets/10.png)](https://www.youtube.com/playlist?list=PLrtlgPMKxfkEldat51wY_1JOmQ5ezjEXG "Click xem video Demo")
+- Từ phiên bản 1.1.8 hỗ trợ bản mobile android
 
   
 
 Hướng dẫn tải và cài đặt
-- tải file việt hóa mới nhất (VietHoaYenVanCN_NghichGame_xxx.zip) tại [ĐÂY](https://github.com/NghichGame/yysls-cn-vn/releases/)  hoặc bấm vào page release.
+
+PC:
+- tải file việt hóa mới nhất (VietHoaYenVanCN_NghichGame_PC_xxx.zip) tại [ĐÂY](https://github.com/NghichGame/yysls-cn-vn/releases/)  hoặc bấm vào page release.
 - Sau khi tải về nhấp đúp vào file zip để mở (win 10, 11) hoặc mở bằng WinRar lên sẽ thấy có 2 thư mục "Engine" và "LocalData"
 - Copy hoặc kéo thả cả 2 thư mục vào thư mục chính của bản game. ví dụ "D:\Games\yysls\yysls_medium" nếu chơi bản full và "D:\Games\yysls\yysls_fast" nếu chơi bản nhẹ (Xem ảnh dưới). Lưu ý nên mở Launcher trước và để Launcher cập nhật xong rồi copy.
   ![HD1](https://github.com/NghichGame/yysls-cn-vn/blob/main/assets/HD1.png)
 - Xuất hiện thông báo ghi đè file, chọn dòng "Repalce the files in the destination"
-- Xong! Vào game chơi như bình thường.
+
+Android:
+- tải file yysls-cn-vn.apk tạitại [ĐÂY](https://github.com/NghichGame/yysls-cn-vn/releases/) về máy và cài đặt.
+- Cài apk ong Xem video hướng dẫn cài đặt chi tiết tại [ĐÂY](https://www.youtube.com/watch?v=b2jF4ASrIW4)
+- Fix lỗi nếu có: nếu gặp lỗi cài xong vẫn không đổi font, hoặc vẫn tiếng trung, hoặc mất hội thoại... cần bấm Gỡ Việt hóa, xong chạy game 1 lần để game làm mới data, sau đó ấn cài lại Việt hóa.
 
 Cập nhật:
 - Dự án sẽ cố gắng cập nhật, sửa lỗi dịch thuật nhiều nhất có thể
 - Chi tiết các bản cập nhật xem ở page release
-- khởi động dự án Android - sẽ có trong bcn tiếp theo
 
 Hạn chế:
 - Vì khối lượng văn bản lớn, bản dịch không thể tránh các sai sót chưa thể sửa lỗi
