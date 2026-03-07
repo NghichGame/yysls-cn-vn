@@ -16,7 +16,6 @@ Tiến độ:
 - Từ phiên bản 1.0.2, dịch thêm phần UI đăng nhập, đăng ký Email, SĐT, quét mã QR, Trung tâm người dùng
 - Từ phiên bản 1.1.0 fix được hoàn toàn cơ chế callback của game với văn bản hội thoại, npc talk về tiếng trung, đã có thể hiển thị gần như toàn bộ văn bản đã dịch có trong file words_map, Tỉ lệ hiển thị tiếng Việt đạt ~99%
 - Từ phiên bản 1.1.2 Donate 50k, xóa thông báo logo (đợi vài phút sau thanh toán khởi động lại game để ẩn hoàn toàn). Vẫn có thể sử dụng miễn phí, 
-  Với phiên bản android sắp tới, miễn phí hoàn toàn
 - Từ phiên bản 1.1.8 hỗ trợ bản mobile android
 
 
