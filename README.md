@@ -17,11 +17,8 @@ Tiến độ:
 - Từ phiên bản 1.1.0 fix được hoàn toàn cơ chế callback của game với văn bản hội thoại, npc talk về tiếng trung, đã có thể hiển thị gần như toàn bộ văn bản đã dịch có trong file words_map, Tỉ lệ hiển thị tiếng Việt đạt ~99%
 - Từ phiên bản 1.1.2 Donate 50k, xóa thông báo logo (đợi vài phút sau thanh toán khởi động lại game để ẩn hoàn toàn). Vẫn có thể sử dụng miễn phí, 
   Với phiên bản android sắp tới, miễn phí hoàn toàn
-- Xem video demo hội thoại map Bất Kiến Sơn
-  [![Video Demo Việt Hóa](https://github.com/NghichGame/yysls-cn-vn/blob/main/assets/10.png)](https://www.youtube.com/playlist?list=PLrtlgPMKxfkEldat51wY_1JOmQ5ezjEXG "Click xem video Demo")
 - Từ phiên bản 1.1.8 hỗ trợ bản mobile android
 
-  
 
 Hướng dẫn tải và cài đặt
 
@@ -57,3 +54,9 @@ Demo:
 ![Demo7](https://github.com/NghichGame/yysls-cn-vn/blob/main/assets/7.png)
 ![Demo8](https://github.com/NghichGame/yysls-cn-vn/blob/main/assets/8.png)
 ![Demo9](https://github.com/NghichGame/yysls-cn-vn/blob/main/assets/9.png)
+![Demo9](https://github.com/NghichGame/yysls-cn-vn/blob/main/assets/10.png)
+![Demo9](https://github.com/NghichGame/yysls-cn-vn/blob/main/assets/11.png)
+![Demo9](https://github.com/NghichGame/yysls-cn-vn/blob/main/assets/12.png)
+![Demo9](https://github.com/NghichGame/yysls-cn-vn/blob/main/assets/13.png)
+![Demo9](https://github.com/NghichGame/yysls-cn-vn/blob/main/assets/14.png)
+![Demo9](https://github.com/NghichGame/yysls-cn-vn/blob/main/assets/15.png)
