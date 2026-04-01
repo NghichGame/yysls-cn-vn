@@ -27,6 +27,7 @@ PC:
 - Copy hoặc kéo thả cả 2 thư mục vào thư mục chính của bản game. ví dụ "D:\Games\yysls\yysls_medium" nếu chơi bản full và "D:\Games\yysls\yysls_fast" nếu chơi bản nhẹ (Xem ảnh dưới). Lưu ý nên mở Launcher trước và để Launcher cập nhật xong rồi copy.
   ![HD1](https://github.com/NghichGame/yysls-cn-vn/blob/main/assets/HD1.png)
 - Xuất hiện thông báo ghi đè file, chọn dòng "Repalce the files in the destination"
+GỠ Việt Hóa: chạy file "Go_Cai_Dat_Viet_Hoa.bat" trong thư mục yysls_medium hoặc yysls_fast.
 
 Android:
 - tải file yysls-cn-vn.apk tạitại [ĐÂY](https://github.com/NghichGame/yysls-cn-vn/releases/) về máy và cài đặt.
