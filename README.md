@@ -6,20 +6,15 @@ Chức năng:
 - Custom font
 - Fix hoàn toàn lỗi fallback về tiếng Trung với đa số hội thoại
 - Dịch bổ sung thêm các text cập nhật chưa có trong file words_map (sự kiện, vật phẩm, map, nhiệm vụ mới...)
-- Phương pháp: chỉ fix ở cấp độ API của windows không thay thế font gốc của game.
+- Tự động cập nhật các bản dịch bổ sung, cập nhật mới với bản PC
 - Đồng bộ xưng hô cổ phong, dịch sát nghĩa, dễ hiểu...
 - Hệ thống danh hiệu, địa danh, môn phái, chiêu thức... Hán-Việt đậm chất cổ phong
 - Sửa rất rất nhiều lỗi dịch thuật.
 
-Tiến độ:
-- Đã hoàn thành toàn bộ 1.321.058 key + hơn 15000 key proxy
-- Từ phiên bản 1.0.2, dịch thêm phần UI đăng nhập, đăng ký Email, SĐT, quét mã QR, Trung tâm người dùng
-- Từ phiên bản 1.1.0 fix được hoàn toàn cơ chế callback của game với văn bản hội thoại, npc talk về tiếng trung, đã có thể hiển thị gần như toàn bộ văn bản đã dịch có trong file words_map, Tỉ lệ hiển thị tiếng Việt đạt ~99%
-- Từ phiên bản 1.1.2 Donate 50k, xóa thông báo logo (đợi vài phút sau thanh toán khởi động lại game để ẩn hoàn toàn). Vẫn có thể sử dụng miễn phí, 
-- Từ phiên bản 1.1.8 hỗ trợ bản mobile android
-
 
 Hướng dẫn tải và cài đặt
+
+![Click to play Video](https://github.com/NghichGame/yysls-cn-vn/blob/main/assets/video-HD.png)
 
 PC:
 - tải file việt hóa mới nhất (VietHoaYenVanCN_NghichGame_PC_xxx.zip) tại [ĐÂY](https://github.com/NghichGame/yysls-cn-vn/releases/)  hoặc bấm vào page release.
@@ -27,12 +22,18 @@ PC:
 - Copy hoặc kéo thả cả 2 thư mục vào thư mục chính của bản game. ví dụ "D:\Games\yysls\yysls_medium" nếu chơi bản full và "D:\Games\yysls\yysls_fast" nếu chơi bản nhẹ (Xem ảnh dưới). Lưu ý nên mở Launcher trước và để Launcher cập nhật xong rồi copy.
   ![HD1](https://github.com/NghichGame/yysls-cn-vn/blob/main/assets/HD1.png)
 - Xuất hiện thông báo ghi đè file, chọn dòng "Repalce the files in the destination"
-GỠ Việt Hóa: chạy file "Go_Cai_Dat_Viet_Hoa.bat" trong thư mục yysls_medium hoặc yysls_fast.
+
+Sửa lỗi: trường hợp bị hội thoại chuyển về tiếng trung hoặc các cập nhật bị về tiếng trung => chạy file "Go_Cai_Dat_Viet_Hoa.bat" trong thư mục yysls_medium hoặc yysls_fast để gỡ VH. chạy game 1 lần để game làm mới dữ liệu. Sau đó tải file việt hóa mới nhất (VietHoaYenVanCN_NghichGame_PC_xxx.zip) tại [ĐÂY](https://github.com/NghichGame/yysls-cn-vn/releases/) copy vào chạy lại game
+
+Gỡ Việt Hóa PC: chạy file "Go_Cai_Dat_Viet_Hoa.bat" trong thư mục yysls_medium hoặc yysls_fast.
+
+Tại sao không dùng Launcher để cài việt hóa như một số bản Việt hóa khác hoặc như bản android? Vì như vậy không thể cập nhật tự động các bản dịch bổ sung.
 
 Android:
 - tải file yysls-cn-vn.apk tạitại [ĐÂY](https://github.com/NghichGame/yysls-cn-vn/releases/) về máy và cài đặt.
 - Cài apk ong Xem video hướng dẫn cài đặt chi tiết tại [ĐÂY](https://www.youtube.com/watch?v=b2jF4ASrIW4)
 - Fix lỗi nếu có: nếu gặp lỗi cài xong vẫn không đổi font, hoặc vẫn tiếng trung, hoặc mất hội thoại... cần bấm Gỡ Việt hóa, xong chạy game 1 lần để game làm mới data, sau đó ấn cài lại Việt hóa.
+-Bản mobile không có tự động cập nhật text dịch mới. khi có bản dịch mới nên bấm "Cài Việt Hóa" ở app yysls_cn_vn 1 lần để tải file ngôn ngữ và các file dịch mới nhất về (mỗi ngày nên bấm 1 lần để kiểm tra bản dịch bổ sung mới nhất)
 
 Cập nhật:
 - Dự án sẽ cố gắng cập nhật, sửa lỗi dịch thuật nhiều nhất có thể
@@ -41,7 +42,6 @@ Cập nhật:
 Hạn chế:
 - Vì khối lượng văn bản lớn, bản dịch không thể tránh các sai sót chưa thể sửa lỗi
 
-Demo:
 
  [Video demo 1](https://youtu.be/TWB9fqID1Qc), [video demo2](https://youtu.be/8YXyXx1DwKM)
 
