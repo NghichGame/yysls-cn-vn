@@ -1,6 +1,14 @@
 # Việt hóa Where Winds Meet server Trung | Việt hóa Yến Vân server Trung
 Bản Việt hóa Where Winds Meet | Yến Vân Thập Lục Thanh bản Trung (yysls.cn)
 
+<div align="center">
+
+| Báo lỗi, hỗ trợ |
+| :---: |
+| [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kH2xCyNr) |
+
+</div>
+
 Chức năng:
 - Dịch toàn bộ văn bản trích xuất từ file "translate_words_map_zh_cn", chất lượng bản dịch cao
 - Custom font
@@ -14,7 +22,7 @@ Chức năng:
 
 Hướng dẫn tải và cài đặt
 
-![Click to play Video](https://github.com/NghichGame/yysls-cn-vn/blob/main/assets/video-HD.png)
+[![Click to play Video](https://github.com/NghichGame/yysls-cn-vn/blob/main/assets/video-HD.png)](https://www.youtube.com/watch?v=u0VsygpBHpQ)
 
 PC:
 - tải file việt hóa mới nhất (VietHoaYenVanCN_NghichGame_PC_xxx.zip) tại [ĐÂY](https://github.com/NghichGame/yysls-cn-vn/releases/)  hoặc bấm vào page release.
