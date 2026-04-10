@@ -5,7 +5,7 @@ Bản Việt hóa Where Winds Meet | Yến Vân Thập Lục Thanh bản Trung (
 
 | Báo lỗi, hỗ trợ |
 | :---: |
-| [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kH2xCyNr) |
+| ![Discord](https://img.shields.io/badge/Discord-@nghichgame-7289DA?style=for-the-badge&logo=discord&logoColor=white) |
 
 </div>
 
