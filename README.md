@@ -1,6 +1,11 @@
 # Việt hóa Where Winds Meet server Trung | Việt hóa Yến Vân server Trung
 Bản Việt hóa Where Winds Meet | Yến Vân Thập Lục Thanh bản Trung (yysls.cn)
 
+
+
+[![VietHoaGlobal](https://github.com/NghichGame/yysls-cn-vn/blob/main/assets/wwm-vh.jpg)](https://github.com/NghichGame/wwm-viet-hoa)
+
+
 Chức năng:
 - Dịch toàn bộ văn bản trích xuất từ file "translate_words_map_zh_cn", chất lượng bản dịch cao
 - Custom font
