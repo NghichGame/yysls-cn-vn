@@ -38,6 +38,8 @@ Cập nhật:
 Hạn chế:
 - Vì khối lượng văn bản lớn, bản dịch không thể tránh các sai sót chưa thể sửa lỗi
 
+Liên hệ:
+- Mọi vấn đề về lỗi hoặc vấn đề liên quan đến ẩn Qr, logo cần hỗ trợ vui lòng liên hệ zalo: 0386565646
 
  [Video demo 1](https://youtu.be/TWB9fqID1Qc), [video demo2](https://youtu.be/8YXyXx1DwKM)
 
