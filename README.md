@@ -12,13 +12,13 @@ Chức năng:
 - Hệ thống tự động cập nhật toàn diện các bản dịch bổ sung, cập nhật mới với cả bản PC và android
 
 Hướng dẫn tải và cài đặt
-
+![HD1](https://github.com/NghichGame/yysls-cn-vn/blob/main/assets/HD1.png)
 PC:
 - tải file việt hóa mới nhất (VietHoa_WWM_NghichGame_PC_xxx.zip) tại [ĐÂY](https://github.com/NghichGame/yysls-cn-vn/releases/)  hoặc bấm vào page release.
 - Sau khi tải về Giải nén ra sẽ có 2 file VietHoa_WWM_NghichGame.exe và SQLite.Interop.dll, Chạy file VietHoa_WWM_NghichGame.exe để mở app Việt hóa.
 - Ở mục đường dẫn game, ấn chọn thư mục và chọn đúng đường dẫn game, ví dụ "D:\Games\yysls\". Lưu ý không phải thư mục "yysls_medium" hay "yysls_fast" như từ phiên bản 2.0.8 trở về trước.
+![HD](https://github.com/NghichGame/yysls-cn-vn/blob/main/assets/HD.png)
 - Sau khi chọn đúng thư mục cài game, App sẽ báo đã tìm thấy thư mục LocalData là ok. Bấm "Cài Việt hóa" và đợi app cài báo thành công.
-  ![HD1](https://github.com/NghichGame/yysls-cn-vn/blob/main/assets/HD1.png)
 
 GỠ Việt Hóa: Ấn "Gỡ Việt hóa" trên app.
 
