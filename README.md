@@ -20,10 +20,10 @@ Cài đặt riêng cho bản Quốc tế (Global)
 - Trong cài đặt ngôn ngữ của game, cần tải và chọn ngôn ngữ "Tiếng Trung giản thể" (Để đồng bộ với bản Trung hiện tại)
 - Ngôn ngữ giọng nói -> tùy chọn
 - Mục tiêu dịch: Chọn tiếng Việt
-- Bản dịch global dùng dung bản dịch với bản Trung, bổ sung thêm một số text riêng của global.
+- Bản dịch global dùng dung bản dịch với bản Trung, bổ sung thêm ~12k text riêng của global.
 - Sau khi làm các bước này, thoát game và làm theo hướng dẫn chung bên dưới
-- Về kênh chat, sau khi cài Việt hóa, có thể cần phải chọn lại kênh chat tiếng Việt bằng Tay
-- Về một số mini game cần nhập liệu như: viết câu đối, viết đáp án, có thể cần tạm thời chuyển sang tiếng Việt gốc của game để làm. Thường xuất hiện ở mini game Miêu Miêu, và 1 số mini game nhỏ ở Thanh Châu, Giang Nam, Vị Ương thành...
+- Về kênh chat, sau khi cài Việt hóa, sẽ tự động chuyển kênh thế giới mặc định về kênh Tiếng Việt 1
+- Về một số mini game cần nhập liệu như: viết câu đối, viết đáp án, có thể cần tạm thời chuyển sang tiếng Việt gốc của game để làm. Thường xuất hiện ở mini game Diệu Diệu Miêu, và 1 số mini game nhỏ ở Thanh Châu, Giang Nam, Vị Ương thành...
 
 PC:
 - tải file việt hóa mới nhất (VietHoa_WWM_NghichGame_PC_xxx.zip) tại [ĐÂY](https://github.com/NghichGame/yysls-cn-vn/releases/)  hoặc bấm vào page release.
@@ -42,6 +42,7 @@ Sửa lỗi:
 Android:
 - tải file VietHoa_WWM_NghichGame_xxx.apk tại [ĐÂY](https://github.com/NghichGame/yysls-cn-vn/releases/) về máy và cài đặt.
 - Cài apk xong Xem video hướng dẫn cài đặt chi tiết tại [ĐÂY](https://www.youtube.com/watch?v=b2jF4ASrIW4)
+- Từ phiển bản App 2.1.0 cần chọn đúng bản Trung, Global hoặc Funtap
 - Sửa lỗi: nếu khi game cập nhật chữ bị chuyển về tiếng trung. Mở app Việt hóa, ấn Cài việt hóa, hoặc ấn Chạy Game trong app Việt hóa, app sẽ tự động cập nhật Patch hotfix mới nhất.
 - Trường hợp làm như trên vẫn lỗi, ấn Gỡ Việt hóa, chạy game 1 lần để game tạo lại data, sau đó ấn Cài Việt hóa lại.
 - Từ phiên bản App 2.0.3 android đã có cập nhật tự động toàn diện, cập nhật tự động mỗi khi game chạy.
